@@ -8,3 +8,11 @@
 
   --font-inter: "Inter", sans-serif;
 }
+
+.max-width {
+  width: 100%;
+  max-width: 1280px;
+
+  margin: auto;
+  padding: 0 30px;
+}
