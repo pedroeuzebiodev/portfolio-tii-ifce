@@ -23,5 +23,5 @@
 </h1>
 
 <h4 align="center">
- 🚧  Website do curso de Técnico em Informática para Internet | IFCE Campus Baturité 🌐 em construção... 🚧
+ 🚧  Portfólio do curso de Técnico em Informática para Internet do IFCE Campus Baturité 🌐 em construção... 🚧
 </h4>
