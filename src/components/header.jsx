@@ -3,14 +3,14 @@ import { Moon, Menu } from "lucide-react";
 
 export const Header = () => {
   return (
-    <header>
+    <header className="py-12">
       <div className="max-width">
         <div
           id="header-content"
-          className="flex justify-between items-center py-12 md:flex-row-reverse"
+          className="flex justify-between items-center md:flex-row-reverse"
         >
           <button type="button" className="p-3 bg-secondary rounded-lg">
-            <Moon size={32} />
+            <Moon size={24} />
           </button>
 
           <a href="/">
