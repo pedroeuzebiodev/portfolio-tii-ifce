@@ -2,11 +2,11 @@ import Notebook from "../assets/notebook.png";
 
 export const SectionHome = () => {
   return (
-    <section id="section-home">
+    <section id="section-home" className="py-12">
       <div className="max-width">
         <div
           id="section-home-content"
-          className="py-12 flex flex-col gap-12 items-center justify-center md:flex-row md:items-start md:gap-24"
+          className="flex flex-col gap-12 items-center justify-center md:flex-row md:items-start md:gap-24"
         >
           <div id="section-home-content-texts" className="space-y-[1.875rem]">
             <h1 className="text-primary text-3xl font-bold md:text-4xl">
