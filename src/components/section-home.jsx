@@ -2,18 +2,18 @@ import Notebook from "../assets/notebook.png";
 
 export const SectionHome = () => {
   return (
-    <section id="section-home" className="py-12">
+    <section id="section-home">
       <div className="max-width">
         <div
           id="section-home-content"
-          className="flex flex-col gap-12 items-center justify-center md:flex-row md:items-start md:gap-24"
+          className="flex flex-col gap-12 items-center justify-center lg:flex-row lg:items-start lg:gap-24"
         >
           <div id="section-home-content-texts" className="space-y-[1.875rem]">
-            <h1 className="text-primary text-3xl font-bold md:text-4xl">
+            <h1 className="text-primary text-3xl font-bold lg:text-4xl">
               Técnico em Informática <br /> para Internet
             </h1>
 
-            <p className="text-xl md:text-2xl">
+            <p className="text-xl lg:text-2xl">
               Prepara o aluno para desenvolver softwares, aplicativos e soluções
               web, além de atuar em áreas como desenvolvimento de sites,
               comércio eletrônico e marketing digital.
@@ -21,7 +21,7 @@ export const SectionHome = () => {
 
             <a
               href="#"
-              className="px-6 py-3 bg-secondary rounded-lg text-lg font-medium md:text-xl"
+              className="px-6 py-3 bg-secondary rounded-lg text-lg font-medium lg:text-xl"
             >
               Saiba mais
             </a>
