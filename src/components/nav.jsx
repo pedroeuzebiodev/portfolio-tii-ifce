@@ -1,6 +1,6 @@
 export const Nav = () => {
   return (
-    <nav className="bg-secondary py-[1.875rem] hidden md:block">
+    <nav className="bg-secondary py-[1.875rem] hidden lg:block">
       <div className="max-width">
         <div id="nav-content">
           <ul className="flex justify-center items-center gap-[1.875rem]">
