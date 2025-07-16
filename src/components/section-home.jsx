@@ -21,7 +21,7 @@ export const SectionHome = () => {
 
             <a
               href="#"
-              className="px-6 py-3 bg-secondary rounded-lg text-lg font-medium lg:text-xl"
+              className="px-6 py-3 bg-secondary rounded-lg text-lg font-medium block max-w-fit lg:text-xl"
             >
               Saiba mais
             </a>

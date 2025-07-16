@@ -20,3 +20,25 @@
 section {
   padding: 48px 0;
 }
+
+@keyframes appear {
+  from {
+    translate: -100vw 0;
+  }
+
+  to {
+    translate: 0 0;
+  }
+}
+
+#section-home h1 {
+  animation: appear 2000ms ease-in-out;
+}
+
+#section-home p {
+  animation: appear 2500ms ease-in-out;
+}
+
+#section-home a {
+  animation: appear 3000ms ease-in-out;
+}
