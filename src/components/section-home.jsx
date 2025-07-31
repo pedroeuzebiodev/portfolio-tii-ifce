@@ -20,7 +20,7 @@ export const SectionHome = () => {
             </p>
 
             <a
-              href="#"
+              href="#section-about"
               className="px-6 py-3 bg-secondary rounded-lg text-lg font-medium block max-w-fit lg:text-xl"
             >
               Saiba mais
