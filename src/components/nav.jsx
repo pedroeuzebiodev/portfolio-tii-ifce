@@ -6,36 +6,40 @@ export const Nav = () => {
           <ul className="flex justify-center items-center gap-[1.875rem]">
             <li>
               <a
-                href="#"
+                href="#section-home"
                 className="text-xl font-medium hover:text-primary hover:underline"
               >
                 Início
               </a>
             </li>
+
             <li>
               <a
-                href="#"
+                href="#section-about"
                 className="text-xl font-medium hover:text-primary hover:underline"
               >
                 Sobre
               </a>
             </li>
+
             <li>
               <a
-                href="#"
+                href="#section-teachers"
                 className="text-xl font-medium hover:text-primary hover:underline"
               >
                 Professores
               </a>
             </li>
+
             <li>
               <a
-                href="#"
+                href="#section-disciplines"
                 className="text-xl font-medium hover:text-primary hover:underline"
               >
                 Disciplinas
               </a>
             </li>
+
             <li>
               <a
                 href="#"
@@ -44,6 +48,7 @@ export const Nav = () => {
                 Mercado
               </a>
             </li>
+
             <li>
               <a
                 href="#"

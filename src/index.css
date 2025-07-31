@@ -9,6 +9,10 @@
   --font-inter: "Inter", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .max-width {
   width: 100%;
   max-width: 1280px;
