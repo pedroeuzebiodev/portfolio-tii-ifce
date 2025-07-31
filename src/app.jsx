@@ -3,6 +3,7 @@ import { Nav } from "./components/nav";
 import { SectionAbout } from "./components/section-about";
 import { SectionDisciplines } from "./components/section-disciplines";
 import { SectionHome } from "./components/section-home";
+import { SectionJobMarket } from "./components/section-job-market";
 import { SectionTeachers } from "./components/section-teachers";
 
 export function App() {
@@ -19,6 +20,8 @@ export function App() {
       <SectionTeachers />
 
       <SectionDisciplines />
+
+      <SectionJobMarket />
     </div>
   );
 }
