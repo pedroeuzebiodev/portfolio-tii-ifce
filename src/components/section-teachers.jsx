@@ -1,6 +1,6 @@
-import Cintia from "../assets/cintia.png";
-import Jefferson from "../assets/jefferson.png";
-import Kelvia from "../assets/kelvia.png";
+import Cintia from "../assets/cintia-reis.png";
+import Jefferson from "../assets/jefferson-gurguri.png";
+import Kelvia from "../assets/kelvia-fragoso.png";
 
 import LogoGithub from "../assets/logo-github.svg";
 import LogoInstagram from "../assets/logo-instagram.svg";
