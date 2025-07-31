@@ -25,7 +25,7 @@ export const SectionTeachers = () => {
             id="teachers"
             className="flex justify-center items-center gap-[1.875rem] flex-wrap lg:flex-nowrap"
           >
-            <div className="teacher flex flex-col justify-center items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
+            <div className="teacher flex flex-col justify-items-start items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
               <img src={Cintia} alt="Cintia" className="w-full max-w-32" />
 
               <h3 className="text-xl lg:text-2xl font-semibold text-primary text-center">
@@ -64,7 +64,7 @@ export const SectionTeachers = () => {
               </div>
             </div>
 
-            <div className="teacher flex flex-col justify-center items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
+            <div className="teacher flex flex-col justify-items-start items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
               <img
                 src={Jefferson}
                 alt="Jefferson"
@@ -101,7 +101,7 @@ export const SectionTeachers = () => {
               </div>
             </div>
 
-            <div className="teacher flex flex-col justify-center items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
+            <div className="teacher flex flex-col justify-items-start items-center gap-4 bg-secondary rounded-lg p-[1.875rem] w-full max-w-96 h-96">
               <img src={Kelvia} alt="Kelvia" className="w-full max-w-32" />
 
               <h3 className="text-xl lg:text-2xl font-semibold text-primary text-center">
