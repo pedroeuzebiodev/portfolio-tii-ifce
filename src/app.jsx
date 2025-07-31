@@ -1,3 +1,4 @@
+import { Footer } from "./components/footer";
 import { Header } from "./components/header";
 import { Nav } from "./components/nav";
 import { SectionAbout } from "./components/section-about";
@@ -25,6 +26,8 @@ export function App() {
       <SectionJobMarket />
 
       <SectionContact />
+
+      <Footer />
     </div>
   );
 }
